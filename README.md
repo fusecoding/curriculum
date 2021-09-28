@@ -1,6 +1,6 @@
 # FUSE - Coding for Integration Curriculum
 
-> Here you can find an overview of the FUSE program, which is based on our friend's from the Netherlands HackYourFuture. It gives insight into how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
+> Here you can find an overview of the FUSE program, which is based on our friend's from the Netherlands - HackYourFuture. It gives insight into how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
 
 
 ## Overview
