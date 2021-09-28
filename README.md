@@ -1,13 +1,11 @@
-# HackYourFuture Curriculum
+# FUSE - Coding for Integration Curriculum
 
-> Here you can find an overview of the HackYourFuture program. It gives insight into how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
+> Here you can find an overview of the FUSE program, which is based on our friend's from the Netherlands HackYourFuture. It gives insight into how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Below you can find an outline of the contents and learning goals per module. The headers of the different modules link to the actual repositories that both student and teacher will use to go through the material.
 
-- Are you a new mentor? Take a look [here](https://github.com/HackYourFuture/mentors) for some practical tips on how to get started!
-- Are you a new student? Be sure to get started with our [Welcome Guide](https://github.com/HackYourFuture/curriculum/blob/master/welcome.md) to see how to prepare for your first class and beyond!
 
 ## Overview
 
-The HackYourFuture curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of [JavaScript](https://www.github.com/hackyourfuture/javascript) (4 weeks), [React](https://www.github.com/hackyourfuture/react) (4 weeks) and [Project](https://www.github.com/hackyourfuture/project) (7 weeks).
+The FUSE curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of JavaScript (4 weeks), React(4 weeks) and Project (7 weeks).
 
 In the following diagram you'll find the sequence of all the modules included:
 
@@ -23,7 +21,7 @@ If you follow the program you'll learn the following skills:
 - How to use `third-party libraries/APIs`
 - Have a basic understanding of what it means to work on digital products
 
-## Module #1 - [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS)
+## Module #1 - HTML/CSS/GIT
 
 ![HTML/CSS](./assets/html-css.png)
 
@@ -33,7 +31,7 @@ The products of HTML and CSS comprise two-thirds of what is called `frontend` (t
 
 Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing!
 
-You'll also be learning [GIT](https://www.github.com/hackyourfuture/git), software that will allow you to save your folders and files in case they accidentally get deleted or end up corrupt. It can do much more and you'll learn all about that starting from week 2!
+You'll also be learning GIT, software that will allow you to save your folders and files in case they accidentally get deleted or end up corrupt. It can do much more and you'll learn all about that starting from week 2!
 
 In the following table you can find the module material, week-by-week:
 
@@ -56,7 +54,7 @@ By the end of this module, students should have a familiarity with and basic und
 - Know your way around `Visual Studio Code`
 - Feel comfortable working with your `browser's inspector`
 
-## Module #2 - [JavaScript](https://github.com/HackYourFuture/JavaScript/)
+## Module #2 - JavaScript
 
 ![JavaScript](./assets/javascript.png)
 
@@ -81,7 +79,7 @@ By the end of this module, students should have a familiarity with and basic und
 - Think like a programmer
 - Know what your `personal brand` is and how to make it professional
 
-## Module #3 - [Browsers](https://github.com/HackYourFuture/Browsers)
+## Module #3 - Browsers
 
 ![Browsers](./assets/browsers.png)
 
@@ -102,7 +100,7 @@ In order to successfully complete this module you will need to master the follow
 - Gain awareness of the inner workings of JavaScript
 - Be able to present your ideas in a professional setting
 
-## Module #4 - [Using API's](https://github.com/HackYourFuture/UsingAPIs)
+## Module #4 - Using API's
 
 ![JavaScript3](./assets/usingapis.png)
 
@@ -125,7 +123,7 @@ In order to successfully complete this module you will need to master the follow
 - Work with pre-existing code
 - Be able to nail an interview
 
-## Module #5 - [Node.js](https://github.com/HackYourFuture/Node.js)
+## Module #5 - Node.js
 
 ![Node.js](./assets/nodejs.png)
 
@@ -150,7 +148,7 @@ In this module you will get familiar with the world of backend development. By t
 - How to use Express.js to make a `RESTful API`
 - How to build a small `full-stack application`
 
-## Module #6 - [Databases](https://github.com/HackYourFuture/databases)
+## Module #6 - Databases
 
 ![Databases](./assets/databases.png)
 
@@ -173,7 +171,7 @@ In this module you will get familiar with the complexity of storing data. By the
 - Know about `MySQL` as an example of a relational database system
 - Learn about NoSQL databases, with an emphasis on `MongoDB`
 
-## Module #7 - [React](https://github.com/HackYourFuture/React)
+## Module #7 - React
 
 ![React.js](./assets/react.png)
 
@@ -202,7 +200,7 @@ By the end of this module, students should have a familiarity with and basic und
 - Putting emphasis on writing reusable code (`components`)
 - How to handle `client-side routing`
 
-## Module #8 - [Project](https://github.com/HackYourFuture/Project)
+## Module #8 - Project
 
 ![Project](./assets/project.png)
 
@@ -247,19 +245,13 @@ Communication skills:
 
 The final stage is graduation! If you've reached this point you can officially call yourself a **junior web developer**. Be proud of yourself!
 
-At this stage the next step is finding a job. HackYourFuture will assist you, but the responsibility is still on you.
+At this stage the next step is finding a job. FUSE will assist you, but the responsibility is still on you.
 
 We'll work on finding you an internship/job in any of the companies we have within our network. Your job is to keep your skills sharp, both technically as non-technically. Next to that, be sure to check the following repos:
 
 - [Your Personal Brand](https://github.com/HackYourFuture/yourpersonalbrand) <br>
 - [Interview Preparation](https://github.com/HackYourFuture/interviewpreparation)
 
-You can click on any the following addons to keep improving your skills:
-
-[![Postgrad](./assets/postgrad.png)](https://github.com/hackyourfuture/post-grad-ed)
-[![QA Training](./assets/qa-training.png)](https://github.com/hackyourfuture/qa-training)
-
-Last but not least, If you want to improve your English and Presentation skills, please contact the team and we will make the proper arrangements. Same if you want to join a [Fellowship](https://www.hackyourfuture.net/fellowship/) group!
 
 ## Final words
 
@@ -271,7 +263,4 @@ If there's anything inside that you think could be better, don't hesitate to tel
 
 Good luck with your journey and happy coding!
 
-_The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-Our curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it:)
