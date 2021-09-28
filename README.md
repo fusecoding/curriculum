@@ -5,7 +5,7 @@
 
 ## Overview
 
-The FUSE curriculum consists of 8 modules, spread over 7 months. Each module has a duration of 3 weeks, with the exception of JavaScript (4 weeks), React(4 weeks) and Project (7 weeks).
+The FUSE curriculum consists of 8 modules, spread over 5 months. Each module has a duration of 2-3 weeks, with the exception of JavaScript (4 weeks), React(4 weeks) and Project (5 weeks).
 
 In the following diagram you'll find the sequence of all the modules included:
 
